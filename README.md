@@ -1,6 +1,6 @@
 Favor
 =======
-[![Build Status](https://travis-ci.org/soarcn/Favor.svg)](https://travis-ci.org/soarcn/Favor)  [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Favor-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/2695)
+[![Build Status](https://travis-ci.org/rodrigohenriques/Favor.svg?branch=master](https://travis-ci.org/soarcn/Favor)  [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Favor-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/2695)
 
 A easy way of using Android SharedPreferences.
 
